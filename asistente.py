@@ -3,7 +3,6 @@ from datetime import datetime
 from fpdf import FPDF
 import os
 
-# Titulo
 st.set_page_config(page_title="Asistente Ejecutivo", layout="centered")
 st.title("🤖 Asistente para Nuevos Ingresos")
 
