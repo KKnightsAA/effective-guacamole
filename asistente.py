@@ -123,7 +123,7 @@ elif categoria == "Reparaciones":
 # Puedes seguir agregando lógica para el resto de categorías si lo necesitas.
 
 st.markdown("---")
-=======
+
 import streamlit as st
 from datetime import datetime
 from fpdf import FPDF
@@ -248,5 +248,5 @@ elif categoria == "Reparaciones":
 # Puedes seguir agregando lógica para el resto de categorías si lo necesitas.
 
 st.markdown("---")
->>>>>>> 3545636051c6e25aeaf853ba8834c82bca4f2d80
+3545636051c6e25aeaf853ba8834c82bca4f2d80
 st.caption("Versión prototipo • Desarrollado por Ronni")
